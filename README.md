@@ -22,8 +22,8 @@ Nossa meta é não apenas melhorar a estética dos e-mails, mas também garantir
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [HTML](https://html.spec.whatwg.org/multipage/)
 - [CSS]([https://expressjs.com/pt-br/](https://www.w3.org/Style/CSS/Overview.en.html))
-- [AMPscript]([https://pt-br.reactjs.org/](https://ampscript.guide/))
-- [Marketing Cloud - Salesforce]([https://vitejs.dev/](https://www.salesforce.com/br/products/marketing-cloud/overview/))
+- [AMPscript](https://pt-br.reactjs.org/](https://ampscript.guide/))
+- [Marketing Cloud - Salesforce](https://vitejs.dev/](https://www.salesforce.com/br/products/marketing-cloud/overview/))
 
 ## Rodando a aplicação
 
