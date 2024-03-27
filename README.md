@@ -12,8 +12,4 @@ Além da criação de novos layouts e da implementação de um design system coe
 
 <br>
 
-Nossa meta é não apenas melhorar a estética dos e-mails, mas também garantir que cada interação seja altamente envolvente e conduza a ações concretas, como pedidos de pizza, inscrições em programas de fidelidade e participação em promoções exclusivas. Estamos focados em criar uma experiência única que fortaleça o vínculo emocional dos clientes com a marca Pizza Hut, proporcionando-lhes valor real em cada comunicação.
-
-<br>
-
-Ao priorizar a inovação e a excelência em design e tecnologia, estamos construindo uma base sólida para o sucesso contínuo das campanhas de e-mail marketing, impulsionando o crescimento do negócio e consolidando a posição da Pizza Hut como líder no mercado brasileiro de pizzas.
+Nossa meta é não apenas melhorar a estética dos e-mails, mas também garantir que cada interação seja altamente envolvente e conduza a ações concretas, como pedidos de pizza, inscrições em programas de fidelidade e participação em promoções exclusivas. Estamos focados em criar uma experiência única que fortaleça o vínculo emocional dos clientes com a marca Pizza Hut, proporcionando-lhes valor real em cada comunicação. Ao priorizar a inovação e a excelência em design e tecnologia, estamos construindo uma base sólida para o sucesso contínuo das campanhas de e-mail marketing, impulsionando o crescimento do negócio e consolidando a posição da Pizza Hut como líder no mercado brasileiro de pizzas.
