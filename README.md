@@ -25,6 +25,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [AMPscript](https://ampscript.guide/)
 - [Marketing Cloud - Salesforce](https://www.salesforce.com/br/products/marketing-cloud/overview/)
 
+<br>
+
 ## Rodando a aplicação
 
 ```bash
