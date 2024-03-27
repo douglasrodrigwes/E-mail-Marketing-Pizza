@@ -1,4 +1,9 @@
 # E-mail-Marketing-Pizza
+<p align="center">
+  <img src="https://github.com/douglasrodrigwes/E-mail-Marketing-Pizza/blob/main/images-email.png?raw=true" width="1000" align="center" />
+</p>
+
+<br>
 
 ## O que é e-mail marketing?
 É um canal de marketing atraente, uma forma de pegar um serviço digital e unir o marketing direto e marketing digital, para assim usá-lo para promover seus produtos, serviços ou marcas da sua empresa. O e-mail marketing pode sugerir itens e ofertas recentes da sua empresa, podendo ser integrado ou automatizado, dependendo da plataforma. Ele pode desempenhar um papel na análise e estratégia de marketing, com geração de leads, reconhecimento da marca, relacionamento e fidelização de futuros clientes, e manter os clientes sempre engajados com diferentes tipos de e-mail marketing para diversos públicos.
