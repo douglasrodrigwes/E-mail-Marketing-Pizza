@@ -13,3 +13,32 @@ Além da criação de novos layouts e da implementação de um design system coe
 <br>
 
 Nossa meta é não apenas melhorar a estética dos e-mails, mas também garantir que cada interação seja altamente envolvente e conduza a ações concretas, como pedidos de pizza, inscrições em programas de fidelidade e participação em promoções exclusivas. Estamos focados em criar uma experiência única que fortaleça o vínculo emocional dos clientes com a marca Pizza Hut, proporcionando-lhes valor real em cada comunicação. Ao priorizar a inovação e a excelência em design e tecnologia, estamos construindo uma base sólida para o sucesso contínuo das campanhas de e-mail marketing, impulsionando o crescimento do negócio e consolidando a posição da Pizza Hut como líder no mercado brasileiro de pizzas.
+
+## :rocket: Tecnologias usadas
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+- [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/pt-br/)
+- [React](https://pt-br.reactjs.org/)
+- [Vite](https://vitejs.dev/)
+
+## Rodando a aplicação
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/douglasrodrigwes/E-mail-Marketing-Pizza.git
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd email-pizza
+
+# Vá para a pasta do projeto
+$ cd email-pizza ou você pode acessar o arquivo index.html manualmente direto na pasta.
+
+# Instale as dependências
+$ Não há necessidade de instalar dependências.
+
+# Execute a aplicação em modo de desenvolvimento
+$ E você poderá visualizar e interagir com o conteúdo do e-mail da Pizza Hut Brasil no seu navegador.
+```
+
+Feito por **Douglas R** 🤙
+
