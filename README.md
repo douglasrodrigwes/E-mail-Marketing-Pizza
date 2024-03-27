@@ -1,6 +1,7 @@
 # E-mail-Marketing-Pizza
 <p align="center">
   <img src="https://github.com/douglasrodrigwes/E-mail-Marketing-Pizza/blob/main/banner-hero.png?raw=true" width="1000" align="center" />
+  <br>
   <img src="https://github.com/douglasrodrigwes/E-mail-Marketing-Pizza/blob/main/images-email.png?raw=true" width="1000" align="center" />
 </p>
 
