@@ -5,9 +5,15 @@
 
 ## Projeto 
 O projeto de reestruturação dos e-mails marketing para Pizza Hut Brasil é uma iniciativa abrangente que visa não apenas criar novos layouts e desenvolver um design system, mas também revitalizar a experiência do usuário e otimizar a comunicação da marca. Ao adotar uma abordagem inovadora, estamos buscando não apenas atender, mas superar as expectativas dos clientes, oferecendo uma experiência visualmente cativante e altamente interativa.
+
 <br>
+
 Além da criação de novos layouts e da implementação de um design system coeso, estamos aproveitando tecnologias avançadas, como HTML, CSS, AMPscript e a robusta ferramenta Salesforce Marketing Cloud, para garantir a entrega eficiente e personalizada de conteúdo relevante para cada segmento de nossa base de clientes.
+
 <br>
+
 Nossa meta é não apenas melhorar a estética dos e-mails, mas também garantir que cada interação seja altamente envolvente e conduza a ações concretas, como pedidos de pizza, inscrições em programas de fidelidade e participação em promoções exclusivas. Estamos focados em criar uma experiência única que fortaleça o vínculo emocional dos clientes com a marca Pizza Hut, proporcionando-lhes valor real em cada comunicação.
+
 <br>
+
 Ao priorizar a inovação e a excelência em design e tecnologia, estamos construindo uma base sólida para o sucesso contínuo das campanhas de e-mail marketing, impulsionando o crescimento do negócio e consolidando a posição da Pizza Hut como líder no mercado brasileiro de pizzas.
